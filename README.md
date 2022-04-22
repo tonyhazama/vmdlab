@@ -7,5 +7,4 @@ Built using HTML5, JQuery, Fontawesome, and WOW.JS
  Clone the repository by running `git clone` command in your console.
  host the folder using apache or other service and you good to go.
  
- 
-### Live Demo[https://tonyhazama.github.io/vmdlab/]
+ [Live Demo](https://tonyhazama.github.io/vmdlab)
